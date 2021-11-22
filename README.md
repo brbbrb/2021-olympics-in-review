@@ -1,4 +1,4 @@
-# 2021 Tokyo Olympics :medal_sports:
+# 2021 Olympics in Review :medal_sports:
 
 ![alt text](https://github.com/uchenna23/Project-3/blob/main/static/Olympics.jpg?raw=true)
 
